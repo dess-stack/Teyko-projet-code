@@ -12,13 +12,7 @@ JavaScript 🖥️
 C++ 🛠️
 Java ☕
 ... et bien d'autres à venir !
-🚀 Comment utiliser ce dépôt ?
-Clone le dépôt :
-bash
-Copier le code
-git clone https://github.com/ton-utilisateur/ton-repo.git  
-Explore les dossiers selon le langage ou le projet.
-Suis les instructions dans les fichiers README spécifiques à chaque projet.
+
 🤝 Contribuer
 Les contributions sont les bienvenues ! 🙌
 
