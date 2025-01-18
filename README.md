@@ -1,33 +1,52 @@
+## What is AssaultCube?
+AssaultCube is a **FREE**, multiplayer, first-person shooter game, based on the
+[CUBE engine](http://cubeengine.com/cube.php).
 
-Voici un exemple de README pour ton dépôt GitHub :
+Taking place in realistic environments, with fast, arcade gameplay,
+it's addictive and fun!
 
-🌍 Codes et Programmes Multilingues
-Bienvenue dans ce dépôt où je partage mes codes et programmes développés dans plusieurs langages. Que tu sois débutant, curieux ou développeur expérimenté, tu trouveras ici des ressources utiles pour apprendre, expérimenter, ou intégrer dans tes projets. 🚀
+With efficient bandwidth usage, it's low-latency and can even run over a 56 Kbps
+connection. It's tiny too, weighing in at a lightweight about 50 MB package
+available for [Windows, Linux, Mac](https://assault.cubers.net/download.html).
+On the correct settings, it can even run on old hardware (Pentium III and above).
 
-📂 Contenu du dépôt
-Scripts et programmes : Projets variés (utilitaires, jeux, outils, etc.).
-Langages disponibles :
-Python 🐍
-JavaScript 🖥️
-C++ 🛠️
-Java ☕
-... et bien d'autres à venir !
+![screenshot](https://user-images.githubusercontent.com/7680684/69888836-9a931d80-12b3-11ea-8123-bbf06908a96f.jpg)
 
-🤝 Contribuer
-Les contributions sont les bienvenues ! 🙌
+## Features in a nutshell:
 
-Fork le projet.
-Crée une branche pour ta contribution :
-bash
-Copier le code
-git checkout -b nouvelle-fonctionnalite  
-Fais un commit avec tes changements :
-bash
-Copier le code
-git commit -m "Ajout d'une nouvelle fonctionnalité"  
-Pousse ta branche et ouvre une Pull Request.
-📜 Licence
-Ce dépôt est sous licence [Nom de la licence]. Consulte le fichier LICENSE pour plus de détails.
+ * It's **FREE**.
+ * Source code is available under a zlib-like open source license.
+ * Low latency, it can even run across a 56 Kbps connection!
+ * Lightweight size, only about 50 MB to download, plus additional maps
+ average 20 KB each!
+ * With the correct settings, it can run on old hardware
+ (Pentium III and above).
+ * Officially runs on most major systems (Windows: 2000/XP/Vista/7/8/10/11, Linux,
+ macOS: 10.6+ 64-bit), and maybe even some
+ [non-major ones](https://assault.cubers.net/docs/getstarted.html)?
+ * Has a built in, in-game map editor to help players create their own maps and
+ allows for co-operative editmode in realtime with others!
+ * Features a single-player bot system.
+ * Supports recording of your game by the "demo" system.
+ * Contains many multiplayer game modes, including: Deathmatch, Survivor,
+ Capture the Flag, Hunt the Flag, Keep the Flag, Pistol Frenzy, Last Swiss
+ Standing & One-Shot One-Kill (plus team versions of these modes).
+ * Comes pre-packaged with several dozen different maps!
 
-⭐ Soutien
-Si ce projet te plaît, laisse une étoile ⭐ pour le soutenir !
+## More info:
+
+Most of this README was directly copied from the
+[AssaultCube Homepage](https://assault.cubers.net), which should have everything
+you need in relation to AssaultCube.
+
+## Contributing:
+
+Learn [how to become a contributor and submit your own code](CONTRIBUTING.md)
+
+## Redistribution:
+
+You may redistribute AssaultCube in any way the license permits, such as the
+free unmodified distribution of AssaultCube's source and binaries. If you have
+any doubts, you can look at the
+[license](https://assault.cubers.net/docs/license.html).
+
